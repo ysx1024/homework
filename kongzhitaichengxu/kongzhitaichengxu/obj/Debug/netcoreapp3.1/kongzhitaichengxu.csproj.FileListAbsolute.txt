@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\bin\Debug\netcoreapp3.1\kongzhitaichengxu.exe
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\bin\Debug\netcoreapp3.1\kongzhitaichengxu.deps.json
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\bin\Debug\netcoreapp3.1\kongzhitaichengxu.runtimeconfig.json
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\bin\Debug\netcoreapp3.1\kongzhitaichengxu.runtimeconfig.dev.json
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\bin\Debug\netcoreapp3.1\kongzhitaichengxu.dll
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\bin\Debug\netcoreapp3.1\kongzhitaichengxu.pdb
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\obj\Debug\netcoreapp3.1\kongzhitaichengxu.csprojAssemblyReference.cache
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\obj\Debug\netcoreapp3.1\kongzhitaichengxu.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\obj\Debug\netcoreapp3.1\kongzhitaichengxu.AssemblyInfo.cs
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\obj\Debug\netcoreapp3.1\kongzhitaichengxu.dll
+D:\Visual Studio 2019\kongzhitaichengxu\kongzhitaichengxu\obj\Debug\netcoreapp3.1\kongzhitaichengxu.pdb

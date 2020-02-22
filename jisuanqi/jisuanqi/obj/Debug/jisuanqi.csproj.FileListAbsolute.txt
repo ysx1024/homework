@@ -1,0 +1,9 @@
+D:\Visual Studio 2019\jisuanqi\jisuanqi\bin\Debug\jisuanqi.exe.config
+D:\Visual Studio 2019\jisuanqi\jisuanqi\bin\Debug\jisuanqi.exe
+D:\Visual Studio 2019\jisuanqi\jisuanqi\bin\Debug\jisuanqi.pdb
+D:\Visual Studio 2019\jisuanqi\jisuanqi\obj\Debug\jisuanqi.csprojAssemblyReference.cache
+D:\Visual Studio 2019\jisuanqi\jisuanqi\obj\Debug\jisuanqi.Properties.Resources.resources
+D:\Visual Studio 2019\jisuanqi\jisuanqi\obj\Debug\jisuanqi.csproj.GenerateResource.cache
+D:\Visual Studio 2019\jisuanqi\jisuanqi\obj\Debug\jisuanqi.exe
+D:\Visual Studio 2019\jisuanqi\jisuanqi\obj\Debug\jisuanqi.pdb
+D:\Visual Studio 2019\jisuanqi\jisuanqi\obj\Debug\jisuanqi.Form1.resources
