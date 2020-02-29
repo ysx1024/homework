@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\第二次家庭作业\20200224\bin\Debug\netcoreapp3.1\20200224.exe
+D:\Visual Studio 2019\第二次家庭作业\20200224\bin\Debug\netcoreapp3.1\20200224.deps.json
+D:\Visual Studio 2019\第二次家庭作业\20200224\bin\Debug\netcoreapp3.1\20200224.runtimeconfig.json
+D:\Visual Studio 2019\第二次家庭作业\20200224\bin\Debug\netcoreapp3.1\20200224.runtimeconfig.dev.json
+D:\Visual Studio 2019\第二次家庭作业\20200224\bin\Debug\netcoreapp3.1\20200224.dll
+D:\Visual Studio 2019\第二次家庭作业\20200224\bin\Debug\netcoreapp3.1\20200224.pdb
+D:\Visual Studio 2019\第二次家庭作业\20200224\obj\Debug\netcoreapp3.1\20200224.csprojAssemblyReference.cache
+D:\Visual Studio 2019\第二次家庭作业\20200224\obj\Debug\netcoreapp3.1\20200224.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\第二次家庭作业\20200224\obj\Debug\netcoreapp3.1\20200224.AssemblyInfo.cs
+D:\Visual Studio 2019\第二次家庭作业\20200224\obj\Debug\netcoreapp3.1\20200224.dll
+D:\Visual Studio 2019\第二次家庭作业\20200224\obj\Debug\netcoreapp3.1\20200224.pdb
