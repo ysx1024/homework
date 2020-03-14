@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\第四次家庭作业\number two\bin\Debug\netcoreapp3.1\number two.exe
+D:\Visual Studio 2019\第四次家庭作业\number two\bin\Debug\netcoreapp3.1\number two.deps.json
+D:\Visual Studio 2019\第四次家庭作业\number two\bin\Debug\netcoreapp3.1\number two.runtimeconfig.json
+D:\Visual Studio 2019\第四次家庭作业\number two\bin\Debug\netcoreapp3.1\number two.runtimeconfig.dev.json
+D:\Visual Studio 2019\第四次家庭作业\number two\bin\Debug\netcoreapp3.1\number two.dll
+D:\Visual Studio 2019\第四次家庭作业\number two\bin\Debug\netcoreapp3.1\number two.pdb
+D:\Visual Studio 2019\第四次家庭作业\number two\obj\Debug\netcoreapp3.1\number two.csprojAssemblyReference.cache
+D:\Visual Studio 2019\第四次家庭作业\number two\obj\Debug\netcoreapp3.1\number two.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\第四次家庭作业\number two\obj\Debug\netcoreapp3.1\number two.AssemblyInfo.cs
+D:\Visual Studio 2019\第四次家庭作业\number two\obj\Debug\netcoreapp3.1\number two.dll
+D:\Visual Studio 2019\第四次家庭作业\number two\obj\Debug\netcoreapp3.1\number two.pdb
