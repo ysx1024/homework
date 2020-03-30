@@ -1,0 +1,9 @@
+D:\Visual Studio 2019\第七次家庭作业\number one\bin\Debug\number one.exe.config
+D:\Visual Studio 2019\第七次家庭作业\number one\bin\Debug\number one.exe
+D:\Visual Studio 2019\第七次家庭作业\number one\bin\Debug\number one.pdb
+D:\Visual Studio 2019\第七次家庭作业\number one\obj\Debug\number one.csprojAssemblyReference.cache
+D:\Visual Studio 2019\第七次家庭作业\number one\obj\Debug\number_one.Form1.resources
+D:\Visual Studio 2019\第七次家庭作业\number one\obj\Debug\number_one.Properties.Resources.resources
+D:\Visual Studio 2019\第七次家庭作业\number one\obj\Debug\number one.csproj.GenerateResource.cache
+D:\Visual Studio 2019\第七次家庭作业\number one\obj\Debug\number one.exe
+D:\Visual Studio 2019\第七次家庭作业\number one\obj\Debug\number one.pdb
