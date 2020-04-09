@@ -1,0 +1,13 @@
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.csprojAssemblyReference.cache
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.Form1.resources
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.Properties.Resources.resources
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.csproj.GenerateResource.cache
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\bin\Debug\numbertwo.exe.config
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\bin\Debug\numbertwo.exe
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\bin\Debug\numbertwo.pdb
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.exe
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.pdb
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\bin\Debug\numberone.exe
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\bin\Debug\numberone.pdb
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\bin\Debug\numberone.exe.config
+D:\Visual Studio 2019\第八次家庭作业\numbertwo\obj\Debug\numbertwo.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\Visual Studio 2019\第八次家庭作业\numberone\obj\Debug\numberone.csprojAssemblyReference.cache
+D:\Visual Studio 2019\第八次家庭作业\numberone\bin\Debug\numberone.exe.config
+D:\Visual Studio 2019\第八次家庭作业\numberone\bin\Debug\numberone.exe
+D:\Visual Studio 2019\第八次家庭作业\numberone\bin\Debug\numberone.pdb
+D:\Visual Studio 2019\第八次家庭作业\numberone\obj\Debug\numberone.exe
+D:\Visual Studio 2019\第八次家庭作业\numberone\obj\Debug\numberone.pdb
