@@ -1,0 +1,1500 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>云山之巅 - 博客园</title>
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=BKtyzabbeYJEVOaELkxmRjHbp7LT-v37GzrU5S24bJk" />
+    <link id="MainCss" rel="stylesheet" href="/skins/imetro/bundle-imetro.min.css?v=YTwxgthpkTskG8UPkwMAHbEZxpbL-57mxPk4ngbsi-o" />
+    <link type="text/css" rel="stylesheet" href="https://www.cnblogs.com/yszd/custom.css?v=ly4Uj5A2tCR9MAJlpWb/p233Fqk=" />
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/imetro/bundle-imetro-mobile.min.css?v=HqHem7wV4YSccpGo1wmLZRg95n7LLjNRes4k7IEZ4S8" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/yszd/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/yszd/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/yszd/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=wKnarAbt-YO5waLYR80IqCLKpzPpF-s-32JKmKCtJxg"></script>
+    <script>
+        var currentBlogId = 415231;
+        var currentBlogApp = 'yszd';
+        var cb_enable_mathjax = true;
+        var isLogined = false;
+        var skinName = 'iMetro';
+    </script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+        tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']], processClass: 'math', processEscapes: true },
+        TeX: {
+        equationNumbers: { autoNumber: ['AMS'], useLabelIds: true },
+        extensions: ['extpfeil.js', 'mediawiki-texvc.js'],
+        Macros: {bm: "\\boldsymbol"}
+        },
+        'HTML-CSS': { linebreaks: { automatic: true } },
+        SVG: { linebreaks: { automatic: true } }
+        });
+    </script>
+    <script src="https://mathjax.cnblogs.com/2_7_5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+</head>
+<body>
+    <a name="top"></a>
+    
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/yszd/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/yszd/">云山之巅</a>
+</h1>
+<h2>
+------自学是你超越他人使自己变重要的一种能力！
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+</li>
+<li>
+
+</li>
+<li>
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E4%BA%91%E5%B1%B1%E4%B9%8B%E5%B7%85">
+联系</a></li>
+<li>
+
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+300&nbsp; </span>
+<span id="stats_article_count">文章 - 
+1&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+17</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		
+<!--done-->
+
+
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/09/13.html">2018年9月13日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9642037.html">
+[置顶]    Shell脚本快速入门
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9642037">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9642037);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-09-13 17:47 云山之巅 阅读 (78) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9642037" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/09/10.html">2018年9月10日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9620516.html">
+[置顶]    评估指标【交叉验证&amp;ROC曲线】
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9620516">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9620516);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-09-10 16:20 云山之巅 阅读 (1757) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9620516" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/09/07.html">2018年9月7日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9606284.html">
+[置顶]    最大值最小值归一化
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9606284">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9606284);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-09-07 17:49 云山之巅 阅读 (1591) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9606284" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/08/29.html">2018年8月29日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9555427.html">
+[置顶]    决策树案例
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9555427">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9555427);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-08-29 16:57 云山之巅 阅读 (766) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9555427" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/08/24.html">2018年8月24日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9530817.html">
+[置顶]    神经网络MPLClassifier分类
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9530817">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9530817);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-08-24 16:53 云山之巅 阅读 (517) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9530817" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/27.html">2018年7月27日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9377550.html">
+[置顶]    软件设计师考试17年下半年上午考试真题及解析(二)
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9377550">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9377550);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-27 14:54 云山之巅 阅读 (270) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9377550" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/26.html">2018年7月26日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9372633.html">
+[置顶]    Tableau环图可视化
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9372633">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9372633);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-26 16:36 云山之巅 阅读 (739) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9372633" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/24.html">2018年7月24日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9360776.html">
+[置顶]    软件设计师考试17年下半年上午考试真题及解析(一)
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9360776">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9360776);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-24 16:26 云山之巅 阅读 (128) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9360776" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/21.html">2018年7月21日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9347188.html">
+[置顶]    软件设计师【数据结构与算法基础知识及相关试题】
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9347188">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9347188);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-21 16:57 云山之巅 阅读 (105) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9347188" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/18.html">2018年7月18日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9329602.html">
+[置顶]    软件设计师考试18年上半年上午考试真题及解析(四)
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9329602">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9329602);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-18 15:55 云山之巅 阅读 (825) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9329602" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/17.html">2018年7月17日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9324780.html">
+[置顶]    软件设计师考试18年上半年上午考试真题及解析(三)
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9324780">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9324780);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-17 18:04 云山之巅 阅读 (1014) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9324780" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9324568.html">
+[置顶]    软件设计师考试18年上半年上午考试真题及解析(二)
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9324568">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9324568);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-17 17:34 云山之巅 阅读 (390) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9324568" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9323237.html">
+[置顶]    逻辑回归&amp;线性支持向量机
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9323237">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9323237);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-17 14:35 云山之巅 阅读 (277) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9323237" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/16.html">2018年7月16日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9317720.html">
+[置顶]    回归算法比较【线性回归，Ridge回归，Lasso回归】
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9317720">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9317720);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-16 15:06 云山之巅 阅读 (1859) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9317720" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/13.html">2018年7月13日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9303971.html">
+[置顶]    K邻近回归算法
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9303971">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9303971);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-13 11:23 云山之巅 阅读 (343) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9303971" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9303896.html">
+[置顶]    matplotlib正弦和余弦图
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9303896">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9303896);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-13 11:12 云山之巅 阅读 (141) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9303896" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9303888.html">
+[置顶]    matplotlib箱线图与柱状图比较
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9303888">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9303888);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-13 11:09 云山之巅 阅读 (302) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9303888" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/12.html">2018年7月12日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9298214.html">
+[置顶]    查看neighbors大小对K近邻分类算法预测准确度和泛化能力的影响
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9298214">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9298214);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-12 10:32 云山之巅 阅读 (252) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9298214" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9298095.html">
+[置顶]    K邻近分类算法
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9298095">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9298095);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-12 10:17 云山之巅 阅读 (479) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9298095" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2018/07/11.html">2018年7月11日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/9295099.html">
+[置顶]    软件设计师考试18年上半年上午考试真题及解析(一)
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="cnblogs-post-body" id="postlist_postbody_9295099">
+        正文内容加载中...
+    </div>
+    <script type="text/javascript">getBlogPostBody(9295099);</script>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-07-11 16:12 云山之巅 阅读 (833) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9295099" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/04/17.html">2020年4月17日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12707280.html">
+    Solr复杂查询一：函数查询
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.简介 Solr的函数可以动态计算每个文档的值，而不是返回在索引阶段对应字段的静态数值集。函数查询是一类特殊的查询，它可以像关键词一样添加到查询中，对所有文档进行匹配并返回它们的函数计算值作为文档得分。使用函数查询，函数计算结果将用于修改相关度得分或用于搜索结果的排序。在应用程序层，函数计算的结果            <a href="https://www.cnblogs.com/yszd/p/12707280.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-17 11:30 云山之巅 阅读 (59) 评论 (1)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12707280" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/04/14.html">2020年4月14日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12696690.html">
+    Spark之SparkContext源码分析
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.简介 SparkContext是Spark程序最主要的入口，用于与Spark集群连接。Spark集群的所有操作都通过SparkContext来进行，使用它可以在Spark集群上创建RDD、计数器以及广播变量。所有的Spark程序都必须创建一个SparkContext对象。进行流式计算时使用的St            <a href="https://www.cnblogs.com/yszd/p/12696690.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-14 18:35 云山之巅 阅读 (17) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12696690" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/04/11.html">2020年4月11日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12677939.html">
+    Spark之RDD内核剖析
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.Spark核心数据结构RDD RDD是Spark最重要的抽象，掌握了RDD，可以说就掌握了Spark计算的精髓。它不但对理解现有Spark程序大有帮助， 也可能提升Spark程序编写能力。 RDD的全称是“弹性分布式数据集”。首先，它是一个数据集，就像Scala语言中的Array,List,Tu            <a href="https://www.cnblogs.com/yszd/p/12677939.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-11 15:53 云山之巅 阅读 (12) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12677939" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/04/08.html">2020年4月8日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12660228.html">
+    Spark配置管理
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.简介 Spark对程序提供了非常灵活的配置方式，可以使用环境变量、配置文件、命令行参数，还可以直接在Spark程序中指定，不同的配置方式有不同的优先级，可以相互覆盖。而且这些配置的属性在Web界面中可以直接看到，非常方便我们管理配置。 二.Spark程序配置加载过程 Spark程序一般都是由脚本            <a href="https://www.cnblogs.com/yszd/p/12660228.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-08 20:24 云山之巅 阅读 (9) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12660228" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/04/06.html">2020年4月6日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12632995.html">
+    HBase储备知识三：基本信息
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.背景 2003年，Google发表了“The Google File System”的论文。这个分布式文件系统简称GFS，它使用商用硬件集群存储海量数据。文件系统将数据在节点之间冗余复制，这样的话，即使一台存储服务器发生故障，也不会影响数据的可用性。它对数据的流式读取也做了优化，可以边处理边读取            <a href="https://www.cnblogs.com/yszd/p/12632995.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-06 18:51 云山之巅 阅读 (9) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12632995" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/04/04.html">2020年4月4日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12625359.html">
+    HBase储备知识一：相关基本信息
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.维度 1.数据模型 数据有多种存储的方式，包括键值对【类似Map】、半结构化的列式存储和文档结构存储。 2.存储模型 内存还是磁盘持久化可以和RDBMS进行比较，它们通常持久化存储数据到磁盘中。即使需要的是纯粹内存模式，也仍旧有其他方案。一旦考虑持久化存储，就需要考虑选择的方案是否影响到访问模式            <a href="https://www.cnblogs.com/yszd/p/12625359.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-04 18:05 云山之巅 阅读 (9) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12625359" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/03/31.html">2020年3月31日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12587825.html">
+    HBase储备知识二：起源
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.海量数据的黎明 以前，因为缺乏划算的方式来存储所有信息，很多公司会忽略某些数据源，但是现在这样的处理方式会让公司丧失竞争力。存储和分析每一个数据点的需求在不断增长，这种需求的增长直接导致各公司电子商务平台产生了更多的数据。 过去，唯一的选择就是将收集到的数据删减后保存起来，例如只保存最近N天的数            <a href="https://www.cnblogs.com/yszd/p/12587825.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-31 18:35 云山之巅 阅读 (13) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12587825" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/03/23.html">2020年3月23日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12554121.html">
+    Flink Socket WordCount常见异常及解决方案
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.代码实现 package cn.socket import org.apache.flink.streaming.api.scala._ // 数据类型异常，动态数据引入 // import org.apache.flink.api.scala._ // 数据类型异常，静态数据引入 /** *             <a href="https://www.cnblogs.com/yszd/p/12554121.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-23 18:47 云山之巅 阅读 (39) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12554121" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/03/21.html">2020年3月21日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12512658.html">
+    Solr查询解析器大全
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.字段查询解析器 字段查询解析器在指定字段中搜索词项或短语，可以使用该字段定义的任何文本分析方式。f参数指明要进行词项或短语搜索的字段，语法如下： {!field f=myfield}hello world 该语法与使用Lucene查询解析器搜索短语myfield:&quot;hello world&quot;是等价            <a href="https://www.cnblogs.com/yszd/p/12512658.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-21 08:56 云山之巅 阅读 (18) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12512658" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/03/07.html">2020年3月7日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12367687.html">
+    Keras深度神经网络模型分层分析【输入层、卷积层、池化层】
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.输入层 1.用途 构建深度神经网络输入层，确定输入数据的类型和样式。 2.应用代码 input_data = Input(name=&#39;the_input&#39;, shape=(1600, 200, 1)) 3.源码 def Input(shape=None, batch_shape=None, na            <a href="https://www.cnblogs.com/yszd/p/12367687.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-07 19:26 云山之巅 阅读 (210) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12367687" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/03/03.html">2020年3月3日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12401650.html">
+    Keras模型分类分析及代码实现
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.序列模型 1.序列模型【写法一】 序列模型属于通用模型的一种，这种模型各层之间是依次顺序的线性关系。在第k层和第k+1层之间可以加上各种元素来构造神经网络。这些元素可以通过一个列表来制定，然后作为参数传递给序列模型来生成相应的模型。 from keras.models import Sequen            <a href="https://www.cnblogs.com/yszd/p/12401650.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-03 16:38 云山之巅 阅读 (34) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12401650" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/03/02.html">2020年3月2日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12365756.html">
+    Solr查询配置及优化【eDisMax查询解析器】
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.简介 Lucene查询解析器语法支持创建任意复杂的布尔查询，但还有一些缺点，它不是用户查询处理的理想解决方案。这里面最大的问题是Lucene查询解析器的语法要求严格，一旦破坏就会抛出异常。指望用户在输入关键词时能够理解Lucene查询语法并始终能输入完美的查询表达式，这显然是不合理的。这意味着，            <a href="https://www.cnblogs.com/yszd/p/12365756.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-02 16:03 云山之巅 阅读 (136) 评论 (1)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12365756" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/29.html">2020年2月29日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12377949.html">
+    Flink&amp;Blink【编程模型、核心概念、SQL代码实战】
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.Flink新特性 1.支持Scala2.12 2.对SQL功能进行完善 a.Streaming SQL新增Temporal Tables【时态表】 时态表：时态表记录了数据改变的历史状态，该表可以返回特定时间点的表的内容。 b.Streaming SQL支持模式匹配 模式匹配：Flink CEP            <a href="https://www.cnblogs.com/yszd/p/12377949.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-29 17:58 云山之巅 阅读 (69) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12377949" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/25.html">2020年2月25日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12362461.html">
+    Keras深度学习框架之损失函数
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.损失函数的使用 损失函数【也称目标函数或优化评分函数】是编译模型时所需的两个参数之一。 model.compile(loss=&#39;mean_squared_error&#39;, optimizer=&#39;sgd&#39;) 或 from keras import losses model.compile(loss=            <a href="https://www.cnblogs.com/yszd/p/12362461.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-25 16:40 云山之巅 阅读 (199) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12362461" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/22.html">2020年2月22日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12330744.html">
+    Solr搜索解析及查询解析器用法概述
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.简介 大多数查询都使用 了标准的Solr语法。这种语法是Solr最常见的，由默认查询解析器负责处理。Solr的默认查询解析器是Lucene查询解析器【LuceneQParserPlugin类实现】。Lucene查询解析器全面支持Lucene语法及Solr的一些专用扩展。 二.Lucene查询解析            <a href="https://www.cnblogs.com/yszd/p/12330744.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-22 17:35 云山之巅 阅读 (130) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12330744" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/15.html">2020年2月15日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12294071.html">
+    Solr查询和过滤器执行顺序剖析
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.简介 Solr的搜索主要由两个操作组成：找到与请求参数相匹配的文档；对这些文档进行排序，返回最相关的匹配文档。默认情况下，文档根据相关度进行排序。这意味着，找到匹配的文档集之后，需要另一个操作来计算每个匹配文档的相关度得分。 二.fq和q参数 为有效地查找匹配的文档和计算文档的相关度得分，Sol            <a href="https://www.cnblogs.com/yszd/p/12294071.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-15 11:36 云山之巅 阅读 (23) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12294071" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/05.html">2020年2月5日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12251398.html">
+    Flink集群模式部署及案例执行
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.软件要求 Flink在所有类UNIX的环境【例如linux，mac os x和cygwin】上运行，并期望集群由一个 主节点和一个或多个工作节点组成。在开始设置系统之前，确保在每个节点上都安装了一下软件： 1.Java1.8.x或更高版本 2.ssh，必须运行sshd才能使用管理远程组件的Fli            <a href="https://www.cnblogs.com/yszd/p/12251398.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-05 11:11 云山之巅 阅读 (119) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12251398" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/03.html">2020年2月3日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12248979.html">
+    Solr查询解析及内核剖析
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.Solr请求概念 Solr最常见的请求类型是在Solr索引中查找相关文档的查询【query】。除此之外，Solr还可以处理许多不同类型的请求。所有的请求基本上都是通过请求处理器提交给Solr。搜索处理器【search handler】是查询处理的默认请求处理器，通过调用一个或多个搜索组件，每个组            <a href="https://www.cnblogs.com/yszd/p/12248979.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-03 15:08 云山之巅 阅读 (22) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12248979" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/02/01.html">2020年2月1日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12246439.html">
+    Spark Streaming流计算核心概念
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.DStreams【离散流】 DStreams或离散流是Spark Streaming提供的基本抽象。它表示连续的数据流，可以是从源接收的输入数据流，也可以是通过转换输入流生成的已处理数据流。在内部，DStream由一系列连续的RDD表示，这是Spark对不可变的分布式数据集的抽象。DStream            <a href="https://www.cnblogs.com/yszd/p/12246439.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-01 10:44 云山之巅 阅读 (25) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12246439" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/yszd/archive/2020/01/15.html">2020年1月15日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/yszd/p/12192769.html">
+    Kaldi语音识别CVTE模型实战
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一.下载训练好的模型 下载路径：http://kaldi-asr.org/models/m2 二.上传&amp;配置 1.上传到kaldi/egs/目录下 2.解压，tar -zxvf&#160;0002_cvte_chain_model_v2.tar.gz 备注：因HCLG.fst模型解压后文件较大，在解压过程中会            <a href="https://www.cnblogs.com/yszd/p/12192769.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-01-15 09:48 云山之巅 阅读 (280) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12192769" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+
+<div class="topicListFooter">
+    <div id="nav_next_page">
+        
+    <a href="https://www.cnblogs.com/yszd/default.html?page=2">
+        下一页
+    </a>
+
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 云山之巅
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>
